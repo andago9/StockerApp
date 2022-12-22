@@ -73,9 +73,8 @@ Al equipo cliente en la red solo es necesario mapearle la carpeta compartida y d
 En caso de Problemas?
 -----------------------------------
 
-David Gonzalez
-<david.gonzalez@marcegaglia.com>
-https://shields.io/category/version
+Andago
+<andago90@gmail.com>
 
 
 
